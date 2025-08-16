@@ -57,11 +57,9 @@ Every path includes resume prep, interview training, and portfolio building.
 
 ## Join Our Community
 
-🌐 [Website](https://www.programming-fighter.com)  
-📧 Email: hello@programming-fighter.com  
-💼 LinkedIn: [Programming Fighter](https://linkedin.com/company/programming-fighter)  
-🐦 Twitter: [@ProgFighter](https://twitter.com/ProgFighter)  
-📱 Instagram: [@programmingfighter](https://instagram.com/programmingfighter)  
+🌐 Website: [[Website](https://www.programming-fighter.com)](https://www.programming-fighter.com)  
+📧 Email: support@programming-fighter.com  
+💼 LinkedIn: [Programming Fighter](https://linkedin.com/company/programming-fighter)
 
 ---
 
