@@ -1,39 +1,102 @@
-# Programming Fighter
+<div align="center">
 
-🚀 **Make Your Learning Journey Faster**  
-*Empowering the next generation of developers through project-based learning*
+# 🥊 Programming Fighter
 
----
+### *Make Your Learning Journey Faster*
 
-## About Us
+**Empowering the next generation of developers through project-based learning**
 
-Programming Fighter is a modern e-learning platform revolutionizing how people learn programming and tech skills. Founded with the mission to bridge the gap between theoretical knowledge and real-world application, we provide an immersive learning experience through hands-on projects and expert mentorship.
-
-### Our Vision
-"To create a world where anyone, anywhere can transform their lives through accessible, practical tech education."
-
-### Core Values
-- **Practicality First**: Focus on real-world skills over abstract theory
-- **Mentorship Matters**: Direct access to industry professionals
-- **Learning Flexibility**: Anytime, anywhere education
-- **Community Driven**: Collaborative learning environment
-- **Career Focused**: Skills that translate to job opportunities
+[![Website](https://img.shields.io/badge/Website-programming--fighter.com-blue?style=for-the-badge)](https://www.programming-fighter.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Programming%20Fighter-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/programming-fighter)
+[![Email](https://img.shields.io/badge/Email-support%40programming--fighter.com-red?style=for-the-badge&logo=gmail)](mailto:support@programming-fighter.com)
 
 ---
 
-## What Makes Us Different?
+</div>
 
-🔥 **Project-Centric Approach**  
-Unlike traditional courses, we structure all learning around building actual applications from day one.
+## 🌟 About Programming Fighter
 
-👨‍💻 **Industry-Expert Instructors**  
-Our mentors are active professionals from top tech companies, not just academics.
+Programming Fighter is a **revolutionary e-learning platform** that transforms how people learn programming and tech skills. We bridge the gap between theoretical knowledge and real-world application through immersive, hands-on experiences and expert mentorship.
 
-🔄 **Continuous Curriculum Updates**  
-We refresh our content quarterly to keep pace with industry changes.
+> ### 🎯 Our Vision
+> *"To create a world where anyone, anywhere can transform their lives through accessible, practical tech education."*
 
-🎯 **Job-Ready Focus**  
-Every path includes resume prep, interview training, and portfolio building.
+---
+
+## 💎 Core Values
+
+<table>
+<tr>
+<td align="center">
+
+### 🛠️ Practicality First
+Focus on real-world skills over abstract theory
+
+</td>
+<td align="center">
+
+### 👨‍🏫 Mentorship Matters
+Direct access to industry professionals
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### 🕐 Learning Flexibility
+Anytime, anywhere education
+
+</td>
+<td align="center">
+
+### 🤝 Community Driven
+Collaborative learning environment
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+### 🎯 Career Focused
+Skills that translate to job opportunities
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 What Makes Us Different?
+
+<details>
+<summary><strong>🔥 Project-Centric Approach</strong></summary>
+
+Unlike traditional courses, we structure **all learning around building actual applications** from day one. No more endless theory - you'll be coding real projects immediately.
+
+</details>
+
+<details>
+<summary><strong>👨‍💻 Industry-Expert Instructors</strong></summary>
+
+Our mentors are **active professionals from top tech companies**, not just academics. Learn from people who are currently solving real-world problems in the industry.
+
+</details>
+
+<details>
+<summary><strong>🔄 Continuous Curriculum Updates</strong></summary>
+
+We refresh our content **quarterly** to keep pace with industry changes. Stay ahead of the curve with the latest technologies and best practices.
+
+</details>
+
+<details>
+<summary><strong>🎯 Job-Ready Focus</strong></summary>
+
+Every path includes **resume prep, interview training, and portfolio building**. We don't just teach you to code - we prepare you for your dream job.
+
+</details>
+
+---
 
 ---
 
