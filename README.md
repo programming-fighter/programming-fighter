@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🥊 Programming Fighter
+# Programming Fighter
 
 ### *Make Your Learning Journey Faster*
 
